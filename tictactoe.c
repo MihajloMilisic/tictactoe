@@ -552,5 +552,3 @@ int computerPlaysToBlock (char board[N][N], int * cRow , int * cCol){
 
   return 0; //returns if no blocking move
 }
-
-
